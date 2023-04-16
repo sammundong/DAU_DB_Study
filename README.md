@@ -1,1 +1,1 @@
-# DAU_DB_Study
+# 동아대학교 DB 스터디
